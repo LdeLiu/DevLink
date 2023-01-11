@@ -28,7 +28,7 @@
 
 
  body{
-
+    display: flex;
     background: var(--bg-url) no-repeat top center/cover;
     height: 100vh;
 }
@@ -38,7 +38,7 @@
     max-width: 588px;
     margin: auto;
     /* border: solid 1px red; */
-    margin: 56px auto 0px;
+    margin: 36px auto 0px;
     padding: 0px 24px;
 }
 
